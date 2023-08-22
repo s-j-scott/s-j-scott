@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🛁 I am a PhD student based at the University of Bath, UK, currently part of the 7th cohort of the [EPSRC SAMBa CDT](https://samba.ac.uk/). 
+- 🔭 My research currently focuses on how one can employ machine learning techniques to solve inverse problems, such as those that arise in astronomical and medical imaging settings.
+
 
 <!--
 **s-j-scott/s-j-scott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->

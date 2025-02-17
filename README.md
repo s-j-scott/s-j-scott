@@ -1,5 +1,6 @@
-- 🛁 I am a PhD student based at the University of Bath, UK, currently part of the 7th cohort of the [EPSRC SAMBa CDT](https://samba.ac.uk/). 
-- 🔭 My research currently focuses on how one can employ machine learning techniques to solve inverse problems, such as those that arise in astronomical and medical imaging settings.
+- 🇩🇪 I am currently a Postdoc in the [Mathematics of Machine Learning](https://www.mathematik.uni-wuerzburg.de/en/machinelearning/) group at [Julius-Maximilians-Universität Würzburg (JMU)](https://www.uni-wuerzburg.de/en/university/), as part of the BMBF funded project [COMFORT](https://www.mathematik.uni-wuerzburg.de/en/comfort/news/)
+- 🛁 Before that I was a PhD student based at the University of Bath, UK, as part of the 7th cohort of the [EPSRC SAMBa CDT](https://samba.ac.uk/)
+- 🔭 My research interests include inverse problems and machine learning
 
 
 <!--
